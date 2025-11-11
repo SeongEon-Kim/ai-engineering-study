@@ -16,7 +16,7 @@
   <img src="https://avatars.githubusercontent.com/tenaan" width="100" />
 </a>
 <a href="https://github.com/chaeyeon-h">
-  <img src="https://avatars.githubusercontent.com/u/chaeyeon-h" width="100" />
+  <img src="https://avatars.githubusercontent.com/u/102357623?v=4" width="100" />
 </a>
 
 
