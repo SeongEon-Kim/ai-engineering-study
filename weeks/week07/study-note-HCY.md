@@ -1,7 +1,6 @@
 [8장 velog 링크](https://velog.io/@algorithm_cell/AI-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-8%EC%9E%A5.-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)
 
-[9-1장 velog 링크](https://velog.io/@algorithm_cell/AI-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-9-1%EC%9E%A5.-%EC%B6%94%EB%A1%A0-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
-
+[9장 velog 링크](https://velog.io/@algorithm_cell/AI-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-9%EC%9E%A5.-%EC%B6%94%EB%A1%A0-%EC%B5%9C%EC%A0%81%ED%99%94)
 
 <br>
 
